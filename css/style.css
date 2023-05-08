@@ -1,0 +1,46 @@
+body {
+    padding: 0px !important;
+    font-family: 'Phudu', cursive;
+    text-align: center;
+
+}
+
+h1 {
+    font-weight: 600;
+}
+
+nav ul li {
+    display: inline-block; 
+}
+
+#hunter {
+    height: 500px;
+    width: auto;
+}
+
+
+header {
+    background-color: #e488c5;
+    color: white;
+
+}
+
+header, section {
+    padding: 5% 5% 0px 5%;
+}
+
+.whitelink {
+    color: white;
+}
+
+.active {
+    color: #e488c5;
+    background-color: white;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+}
+
+.nounderline {
+    text-decoration: none;
+    padding: 10px 15px 0px 15px;
+}
